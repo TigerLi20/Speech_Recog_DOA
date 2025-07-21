@@ -1,0 +1,13 @@
+mic-array-app.tar
+*.tar
+__pycache__/
+.git/
+.cache/*
+!.cache/whisper
+*.bin
+*.png
+.DS_Store
+*.wav
+*.mp4
+*.zip
+*.log
